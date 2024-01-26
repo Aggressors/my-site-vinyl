@@ -1,4 +1,5 @@
-.twin2{
+
+    .twin2{
     filter: brightness(30%)
 }
 
@@ -34,5 +35,3 @@
         .card-text{font-size: 12px;
         }
     }
-
-    
